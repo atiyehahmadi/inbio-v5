@@ -1,0 +1,31 @@
+{
+    "id": "main-menu-8",
+    "section": "menu-8",
+    "menu": [
+        {
+            "id": 1,
+            "text": "سلام",
+            "path": "hello"
+        },
+        {
+            "id": 2,
+            "text": "طرح",
+            "path": "design"
+        },
+        {
+            "id": 3,
+            "text": "عکس",
+            "path": "photos"
+        },
+        {
+            "id": 4,
+            "text": "قیمت گذاری",
+            "path": "pricing"
+        },
+        {
+            "id": 5,
+            "text": "من را استخدام کن",
+            "path": "hire-me"
+        }
+    ]
+}

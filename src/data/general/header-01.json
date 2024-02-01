@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1",
+    "section": "header-1",
+    "button": {
+        "id": 1,
+        "content": "خرید",
+        "path": "#!"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo.png"
+        }
+    ],
+    "slogan": "این‌بیو یک پوسته نمونه کار شخصی است. شما می توانید آن را سفارشی‌سازی کنید."
+}

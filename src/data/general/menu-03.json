@@ -1,0 +1,41 @@
+{
+    "id": "main-menu-3",
+    "section": "menu-3",
+    "menu": [
+        {
+            "id": 1,
+            "text": "خانه",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "تجربه",
+            "path": "experiences"
+        },
+        {
+            "id": 3,
+            "text": "تحصیلات",
+            "path": "educations"
+        },
+        {
+            "id": 4,
+            "text": "رزومه",
+            "path": "resume"
+        },
+        {
+            "id": 5,
+            "text": "نمونه‌کار",
+            "path": "portfolio"
+        },
+        {
+            "id": 6,
+            "text": "بلاگ",
+            "path": "blog"
+        },
+        {
+            "id": 7,
+            "text": "فوتر",
+            "path": "footer"
+        }
+    ]
+}

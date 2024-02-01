@@ -1,0 +1,10 @@
+{
+    "id": "footer-data-1",
+    "section": "footer-1",
+    "copyright_text": "تمامی حقوق محفوظ است، ارائه توسط <a href='https://www.rtl-theme.com/author/afaridteam'> آفرید تیم </a>",
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        }
+    ]
+}

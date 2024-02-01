@@ -1,0 +1,36 @@
+{
+    "id": "main-menu-4",
+    "section": "menu-4",
+    "menu": [
+        {
+            "id": 1,
+            "text": "خانه",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "درباره من",
+            "path": "about"
+        },
+        {
+            "id": 3,
+            "text": "نمونه‌کار",
+            "path": "portfolio"
+        },
+        {
+            "id": 4,
+            "text": "جوایز",
+            "path": "client"
+        },
+        {
+            "id": 6,
+            "text": "بلاگ",
+            "path": "blog"
+        },
+        {
+            "id": 7,
+            "text": "ارتباط با من",
+            "path": "contacts"
+        }
+    ]
+}

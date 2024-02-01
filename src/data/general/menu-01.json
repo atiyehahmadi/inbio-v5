@@ -1,0 +1,46 @@
+{
+    "id": "main-menu-1",
+    "section": "menu-1",
+    "menu": [
+        {
+            "id": 1,
+            "text": "خانه",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "ویژگی‌ها",
+            "path": "features"
+        },
+        {
+            "id": 3,
+            "text": "نمونه‌کار",
+            "path": "portfolio"
+        },
+        {
+            "id": 4,
+            "text": "رزومه",
+            "path": "resume"
+        },
+        {
+            "id": 5,
+            "text": "مشتریان",
+            "path": "clients"
+        },
+        {
+            "id": 6,
+            "text": "قیمت‌گذاری",
+            "path": "pricing"
+        },
+        {
+            "id": 7,
+            "text": "بلاگ",
+            "path": "blog"
+        },
+        {
+            "id": 8,
+            "text": "ارتباط با من",
+            "path": "contacts"
+        }
+    ]
+}

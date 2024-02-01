@@ -1,0 +1,51 @@
+{
+    "id": "main-menu-7",
+    "section": "menu-7",
+    "menu": [
+        {
+            "id": 1,
+            "text": "خانه",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "درباره من",
+            "path": "about"
+        },
+        {
+            "id": 3,
+            "text": "مهارت‌ها",
+            "path": "skill"
+        },
+        {
+            "id": 4,
+            "text": "خدمات",
+            "path": "features"
+        },
+        {
+            "id": 5,
+            "text": "نمونه‌کار",
+            "path": "portfolio"
+        },
+        {
+            "id": 6,
+            "text": "مشتری",
+            "path": "client"
+        },
+        {
+            "id": 7,
+            "text": "قیمت‌گذاری",
+            "path": "pricing"
+        },
+        {
+            "id": 8,
+            "text": "بلاگ",
+            "path": "blog"
+        },
+        {
+            "id": 9,
+            "text": "ارتباط با من",
+            "path": "contacts"
+        }
+    ]
+}

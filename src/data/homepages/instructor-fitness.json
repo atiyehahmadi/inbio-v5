@@ -1,0 +1,401 @@
+{
+    "title": "instructor-fitness-home",
+    "content": [
+        {
+            "id": "instructor-fitness-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "خوش آمدید به <br> مرکز فیتنس"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-2.jpg",
+                    "alt": "تصویر نمونه کار شخصی"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "تماس با من"
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "درباره من",
+                "subtitle": "نمونه کارهای من را ببینید"
+            },
+            "texts": [
+                {
+                    "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. "
+                },
+                {
+                    "content": "کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. "
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "دانلود رزومه من"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-3.jpg"
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "ایجاد سلامتی",
+                "subtitle": "خدمات"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "برنامه فیتنس ",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "خوراکی های سالم ",
+                    "description": "کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "کتاب تغذیه ",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .",
+                    "icon": "Tv",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-10.jpg"
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "بهترین کار من ",
+                "subtitle": "مشاهده پروژه و مدال"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "خدمات ارائه خدمت برای طراحی",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
+                    "stringList": [
+                        "طراحی واکنشگرا",
+                        "امتحان آنلاین",
+                        "مدرک",
+                        "عملکرد و گزارش",
+                        "رتینا ردی"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "خدمات ارائه شده برای توسعه",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
+                    "items": [
+                        "نگهداری دستگاه",
+                        "سازنده تم",
+                        "مدرک",
+                        "عملکرد و گزارش",
+                        "رتینا ردی"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "ارائه خدمات برای کاربران اندروید",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
+                    "items": [
+                        "رضایت مشتریان",
+                        "امتحان آنلاین",
+                        "مدرک",
+                        "عملکرد و گزارش",
+                        "رتینا ردی"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "اعتماد مشتریان",
+                "subtitle": "مشاهده مشتریان"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "مارث اسمیت",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "سامیت ساها",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "جاناتان دای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "جانا مرال",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "جانا سلزای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "سلست سیزای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "رضایت مشتریان",
+                "subtitle": "آنچه مشتریان میگویند"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "@ارمین",
+                    "designation": "مهندس",
+                    "description": "@راسل قالب خیلی عالی هست<span>@دنیا_فرا</span> هیچ قالبی بهتر از این قالب برای توسعه سریع وبسایتم پیدا نکردم. :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@راسل",
+                    "designation": "مهندس",
+                    "description": "@راسل قالب خیلی عالی هست<span>@دنیا_فرا</span> هیچ قالبی بهتر از این قالب برای توسعه سریع وبسایتم پیدا نکردم. :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@کبیر",
+                    "designation": "مهندس",
+                    "description": "@راسل قالب خیلی عالی هست<span>@دنیا_فرا</span> هیچ قالبی بهتر از این قالب برای توسعه سریع وبسایتم پیدا نکردم. :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "@تاین",
+                    "designation": "مهندس",
+                    "description": "@راسل قالب خیلی عالی هست<span>@دنیا_فرا</span> هیچ قالبی بهتر از این قالب برای توسعه سریع وبسایتم پیدا نکردم. :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "قیمت‌گذاری",
+                "subtitle": "قیمت‌گذاری"
+            },
+            "texts": [
+                {
+                    "content": "از قالب های رایگان با تمام تیم خود استفاده کنید یا یک حق بیمه را انتخاب کنید. با تمام تیم خود و یا یک حق بیمه را انتخاب کنید."
+                },
+                {
+                    "content": "دریافت بسته نرم افزاری و پشتیبانی از طول عمر و یک سال به روز رسانی."
+                }
+            ],
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "title": "ثابت",
+                    "subtitle": "آموزش 4 هفته - 30 دقیقه / روز",
+                    "is_featured": false,
+                    "price": "30 تومان",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 قالب نسخه ی نمایشی",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "کاملا رسپانسیو.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "فیگما",
+                            "available": false
+                        },
+                        {
+                            "id": 4,
+                            "title": "پیشنهاد ویژه.",
+                            "available": false
+                        },
+                        {
+                            "id": 5,
+                            "title": "همه پیشنمایش ها",
+                            "available": false
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-join",
+                    "title": "ملحق شوید",
+                    "subtitle": "آموزش 4 هفته - 50 دقیقه / روز",
+                    "is_featured": false,
+                    "price": "50 تومان",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 قالب نسخه ی نمایشی",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "کاملا رسپانسیو.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "فیگما",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "پیشنهاد ویژه.",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "همه پیشنمایش ها",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                }
+            ]
+        },
+        {
+            "id": "instructor-fitness-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "بلاگ من",
+                "subtitle": "بلاگ من را مشاهده کنید و نظر بدهید"
+            }
+        },
+        {
+            "id": "instructor-fitness-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "ارتباط با من",
+                "subtitle": "ارتباط"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "فرهنگ پیشرو "
+                },
+                {
+                    "content": "مدیر اجرایی دفتر "
+                }
+            ],
+            "texts": [
+                {
+                    "content": "من برای کار فریلنس در دسترس هستم. با من ارتباط برقرار کنید و به حساب من تماس بگیرید."
+                }
+            ]
+        }
+    ]
+}

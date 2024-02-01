@@ -1,0 +1,309 @@
+{
+    "title": "model-home",
+    "content": [
+        {
+            "id": "model-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "کریستینا سولموز"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "مدل و کارآفرین برتر"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-12.jpg",
+                    "alt": "تصویر نمونه کار شخصی"
+                }
+            ]
+        },
+        {
+            "id": "model-home-services",
+            "section": "service-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "استراتژی تجارت",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "توسعه اپلیکیشن",
+                    "description": "کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "توسعه اپلیکیشن",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .",
+                    "icon": "Tv",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "model-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "درباره من",
+                "subtitle": "نمونه کارهای من را ببینید"
+            },
+            "texts": [
+                {
+                    "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. "
+                },
+                {
+                    "content": "کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. "
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "دانلود رزومه من"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-5.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-8.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "نمونه کار من",
+                "subtitle": "از نمونه کارهای من دیدن کنید "
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "خدمات ارائه طراحی",
+                    "category": "توسعه",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "طراحی موبایل برنامه فرود و برنامه نگهداری",
+                    "category": "اپلیکیشن",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "طراحی لوگو و اپلیکیشن خلاقانه و کاربردی",
+                    "category": "فوتوشاپ",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "طراحی برنامه های موبایل و خدمات",
+                    "category": "فیگما",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-14.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "طراحی فناوری و خدمات",
+                    "category": "طراحی وب",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-13.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "برنامه فناوری و خدمات",
+                    "category": "طراحی وب",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-15.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "model-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "جوایز من",
+                "subtitle": "مشاهده جوایز"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "مارث اسمیت",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "سامیت ساها",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "جاناتان دای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "جانا مرال",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "جانا سلزای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "سلست سیزای",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "model-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "ارتباط با من",
+                "subtitle": "ارتباط"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "فرهنگ پیشرو "
+                },
+                {
+                    "content": "مدیر اجرایی دفتر "
+                }
+            ],
+            "texts": [
+                {
+                    "content": "من برای کار فریلنس در دسترس هستم. با من ارتباط برقرار کنید و به حساب من تماس بگیرید."
+                }
+            ]
+        }
+    ]
+}

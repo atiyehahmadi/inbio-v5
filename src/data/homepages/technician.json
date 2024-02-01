@@ -1,0 +1,435 @@
+{
+    "title": "technician-home",
+    "content": [
+        {
+            "id": "technician-home-header-image",
+            "section": "header-image-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-9.jpg",
+                    "alt": "تصویر نمونه کار شخصی"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-bio",
+            "section": "bio-section",
+            "headings": [
+                {
+                    "content": "آلمین بالی"
+                },
+                {
+                    "content": "تعمیرکار"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "example@gmail.com"
+                },
+                {
+                    "content": "+880123456789"
+                },
+                {
+                    "content": "20 دی"
+                },
+                {
+                    "content": "بتریسل؛ بنگلادش"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-10.png",
+                    "alt": "تصویر نمونه کار شخصی"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "درباره من",
+                "subtitle": "نمونه کارهای من را ببینید"
+            },
+            "texts": [
+                {
+                    "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "برنامه نویس فول استک"
+                },
+                {
+                    "id": 2,
+                    "title": "24/7 پشتیبانی"
+                },
+                {
+                    "id": 3,
+                    "title": "بازنگری نامحدود"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-2.jpg",
+                    "alt": "تصویر نمونه کار شخصی"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#!",
+                    "content": "دانلود رزومه من"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-service",
+            "section": "service-section",
+            "title": "آنچه انجام می‌دهم",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "برنامه نویس فول استک",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله ",
+                    "icon": "Edit"
+                },
+                {
+                    "id": 2,
+                    "title": "طراح وب",
+                    "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله ",
+                    "icon": "Cast"
+                }
+            ]
+        },
+        {
+            "id": "technician-home-client",
+            "section": "client-section",
+            "title": "مشتریان ما",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "مارث اسمیت",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "مارث اسمیت",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "مارث اسمیت",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "مارث اسمیت",
+                    "path": "#!",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-resume",
+            "section": "resume-section",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "کیفیت آموزشی",
+                        "subtitle": "1395- 1401"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "نمونه کار شخصی برای سیزده فروردین",
+                            "subtitle": "دانشگاه دی وینت (1394- 1389)",
+                            "rating": "4.30/5",
+                            "description": "تحصیلات بسیار مهم است و لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است. "
+                        },
+                        {
+                            "id": 2,
+                            "title": "نمونه هایی از نمونه کارهای شخصی",
+                            "subtitle": "همراه با مطالعه (1390- 1388)",
+                            "rating": "4.50/5",
+                            "description": "تمام  دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی جوابگوی سوالات پیوسته دنیای طراحی اساسا مورد استفاده قرار گیرد."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "تجربه کاری",
+                        "subtitle": "1395- 1401"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "دیپلم در طراحی و توسعه",
+                            "subtitle": "دیپلم افتخاری (1392- 1390)",
+                            "rating": "4.70/5",
+                            "description": "متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان علی الخصوص طراحان خلاق و پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت"
+                        },
+                        {
+                            "id": 2,
+                            "title": "راز یک نمونه کار حرفه ای",
+                            "subtitle": "کار در استودیو رنگین کمان (1396- 1394)",
+                            "rating": "4.95/5",
+                            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-skill",
+            "section": "skill-section",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "مهارت طراحی",
+                        "subtitle": "خدمات"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "عکس برداری",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "فیگما",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "ادوب ایکس دی",
+                            "value": 60
+                        },
+                        {
+                            "id": 4,
+                            "title": "ادوب ایلیسترتور",
+                            "value": 70
+                        },
+                        {
+                            "id": 5,
+                            "title": "طراحی",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "مهارت های فنی",
+                        "subtitle": "خدمات"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "اچ تی ام ال",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "سی اس اس",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "جاوااسکریپت",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "نرم افزار",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "افزونه",
+                            "value": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "technician-home-portfolio",
+            "section": "portfolio-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "خدمات ارائه طراحی",
+                    "category": "توسعه",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "طراحی موبایل برنامه فرود و برنامه نگهداری",
+                    "category": "اپلیکیشن",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "طراحی لوگو و اپلیکیشن خلاقانه و کاربردی",
+                    "category": "فوتوشاپ",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "طراحی برنامه های موبایل و خدمات",
+                    "category": "فیگما",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "طراحی فناوری و خدمات",
+                    "category": "طراحی وب",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "برنامه فناوری و خدمات",
+                    "category": "طراحی وب",
+                    "texts": [
+                        {
+                            "content": "در این صورت می توان امید داشت که تمام شرایط سخت تایپ به پایان رسد"
+                        },
+                        {
+                            "content": "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیچیده و مشکل پیوسته باشد"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "technician-home-blog",
+            "section": "blog-section"
+        },
+        {
+            "id": "technician-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "ارتباط با من",
+                "subtitle": "ارتباط"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "فرهنگ پیشرو "
+                },
+                {
+                    "content": "مدیر اجرایی دفتر "
+                }
+            ],
+            "texts": [
+                {
+                    "content": "من برای کار فریلنس در دسترس هستم. با من ارتباط برقرار کنید و به حساب من تماس بگیرید."
+                }
+            ]
+        }
+    ]
+}
