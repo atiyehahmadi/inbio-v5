@@ -16,7 +16,6 @@
             line-height: 60px;
             text-align: center;
             font-size: 14px;
-            letter-spacing: 2px;
             text-transform: uppercase;
             border-radius: 6px;
             background: var(--background-color-1);
@@ -77,14 +76,12 @@
                     font-size: 14px;
                     font-family: var(--font-secondary);
                     color: var(--color-lightn);
-                    letter-spacing: 3px;
                     text-transform: uppercase;
                     font-weight: 500;
                     display: block;
                     margin-bottom: 20px;
 
                     @media #{$small-mobile} {
-                        letter-spacing: 1px;
                     }
                 }
             }
@@ -196,7 +193,6 @@
             &.title {
                 font-size: 14px;
                 text-transform: uppercase;
-                letter-spacing: 2px;
                 font-weight: 300;
                 color: var(--color-lightn);
                 display: inline-block;
@@ -234,7 +230,7 @@
                     line-height: 60px;
                     text-align: center;
                     font-size: 14px;
-                    letter-spacing: 2px;
+
                     text-transform: uppercase;
                     border-radius: 6px;
                     transition: var(--transition);
@@ -290,7 +286,7 @@
             &.title {
                 font-size: 14px;
                 text-transform: uppercase;
-                letter-spacing: 2px;
+
                 font-weight: 300;
                 color: var(--color-lightn);
                 display: inline-block;
@@ -312,7 +308,7 @@
                 line-height: 60px;
                 text-align: center;
                 font-size: 14px;
-                letter-spacing: 2px;
+
                 text-transform: uppercase;
                 border-radius: 6px;
                 background: var(--background-color-1);
@@ -1309,7 +1305,7 @@
 
 .fd-lorem {
     font-size: 16px !important;
-    letter-spacing: 4px;
+
     color: var(--color-lighten) !important;
     margin-top: 35px !important;
 }
@@ -1334,7 +1330,7 @@
                 font-size: 65px !important;
                 line-height: 90px !important;
                 color: var(--color-white) !important;
-                letter-spacing: 0.5px !important;
+
                 @media #{$sm-layout} {
                     font-size: 40px !important;
                     line-height: 50px !important;
@@ -1346,7 +1342,6 @@
                 margin-top: 0 !important;
                 color: var(--color-white) !important;
                 @media #{$sm-layout} {
-                    letter-spacing: 2px !important;
                 }
             }
         }
@@ -1369,7 +1364,6 @@
     p {
         &.disc {
             @media #{$sm-layout} {
-                letter-spacing: 2px !important;
             }
         }
     }
@@ -1481,7 +1475,7 @@
                 font-family: var(--font-archivo);
                 font-size: 35px;
                 font-weight: 900;
-                letter-spacing: -1px;
+
                 line-height: 1;
                 margin-bottom: 20px;
             }
@@ -1489,7 +1483,7 @@
                 color: #212428;
                 font-family: var(--font-playfair);
                 font-size: 35px;
-                letter-spacing: -2px;
+
                 -webkit-text-stroke-width: 1px;
                 stroke-width: 1px;
                 -webkit-text-stroke-color: #c4cfde;
@@ -1539,11 +1533,9 @@
             &__heading {
                 &-primary {
                     font-size: 70px;
-                    letter-spacing: -5px;
                 }
                 &-stroke {
                     font-size: 75px;
-                    letter-spacing: -10px;
                 }
             }
         }

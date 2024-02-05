@@ -257,7 +257,7 @@
         .rn-btn {
             display: flex;
             margin-bottom: 25px;
-            letter-spacing: 1px;
+
             font-family: var(--font-secondary);
             padding: 20px 0;
 
@@ -307,7 +307,7 @@
                     font-weight: 500;
                     color: #9ca5b1;
                     margin-top: 5px;
-                    letter-spacing: 1px;
+
                     font-family: var(--font-secondary);
 
                     @media #{$small-mobile} {

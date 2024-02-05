@@ -19,7 +19,7 @@
     span {
         &.subtitle {
             color: var(--color-subtitle);
-            letter-spacing: 1px;
+
             display: block;
             line-height: 14px;
 
@@ -29,7 +29,7 @@
 
             @media #{$small-mobile} {
                 line-height: 24px;
-                letter-spacing: 1px;
+
                 text-align: center;
             }
         }

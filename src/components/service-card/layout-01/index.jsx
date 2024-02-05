@@ -22,9 +22,7 @@ const ServiceCard = ({ title, description, path, icon }) => {
                     </Anchor>
                 </div>
             </div>
-            <Anchor className="over-link" path={path}>
-                {/* <span className="visually-hidden">overlay link</span> */}
-            </Anchor>
+            <Anchor className="over-link" path={path}></Anchor>
         </div>
     );
 };

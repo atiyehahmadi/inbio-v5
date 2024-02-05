@@ -5,7 +5,7 @@
     width: 40px;
     position: fixed;
     z-index: 99;
-    right: 0px;
+    left: 0px;
     top: calc(50% - 55px);
 
     .demo-button {
@@ -21,7 +21,7 @@
         min-width: 100%;
         padding: 10px 0px 8px;
         font-weight: 400;
-        letter-spacing: 1px;
+
         text-transform: uppercase;
         cursor: pointer;
 

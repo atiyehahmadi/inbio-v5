@@ -286,7 +286,6 @@ div#featured-project-carousel {
                 font-family: var(--font-primary);
                 color: var(--color-lightn);
                 box-shadow: var(--inner-shadow);
-                letter-spacing: 1px;
 
                 &:focus {
                     color: var(--color-light);
@@ -308,7 +307,7 @@ div#featured-project-carousel {
                 font-family: var(--font-secondary);
                 color: var(--color-lightn);
                 box-shadow: var(--inner-shadow);
-                letter-spacing: 1px;
+
                 resize: none;
 
                 &:focus {

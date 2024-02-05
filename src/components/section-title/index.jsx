@@ -27,7 +27,7 @@ SectionTitle.propTypes = {
 };
 
 SectionTitle.defaultProps = {
-    align: "left",
+    align: "right",
 };
 
 export default SectionTitle;
